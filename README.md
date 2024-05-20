@@ -1,6 +1,3 @@
-Aquí está el código con el texto en español:
-
-```html
 <h1 align="center">Hola 👋, Soy Juan David Macías Calderón</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas e Informática🌟.</h3>
 
